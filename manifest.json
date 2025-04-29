@@ -1,0 +1,8 @@
+{
+  "name": "YouTube Honer",
+  "description": "Hone in on YouTube videos",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": { "default_popup": "hello.html" },
+  "background": { "service_worker": "background.ts" }
+}
